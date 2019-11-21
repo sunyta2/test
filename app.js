@@ -3,3 +3,7 @@ function readFile() {
 		$('#output').text(txt);
 	});
 }
+
+// git reset [commit]
+// git reset --hard [commit]
+
