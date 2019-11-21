@@ -7,3 +7,4 @@ function readFile() {
 // git reset [commit]
 // git reset --hard [commit]
 
+// this is added by other_github branch
