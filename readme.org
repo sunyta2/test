@@ -1,0 +1,2 @@
+* this is testing $ git commit -am "both together experiment"
+
